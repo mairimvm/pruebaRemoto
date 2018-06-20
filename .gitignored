@@ -1,0 +1,7 @@
+*.log
+*.bkp
+*.tmp
+target/
+test/
+build/
+
